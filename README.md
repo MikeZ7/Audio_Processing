@@ -17,14 +17,19 @@ Written using pyqt5 library GUI to plot prime signal in time and frequency domai
 * Microphone recorder
 * Matching microphone recorded sound with database samples using OpenCV
 
-![Sound](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/qt_gui_sound.png)
-*Uploaded sound sample*
 
+<p1 align="center">
+  ![Sample](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/qt_gui_sound.png")
+  <em>Uploaded sound sample</em>
+</p1>
 
+<p2 align="center">
 ![Spectrogram](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/spectrogram.png)
-*Spectrogram*
+  <em>Spectrogram</em>
+</p2>
 
-
-![Hough](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/hough_template.png)
-*Spectrogram after Hough Transform - edge detection*
+<p3 align="center">
+  ![Hough](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/hough_template.png)
+  <em>Spectrogram after Hough Transform - edge detection</em>
+</p3>
 
