@@ -19,17 +19,17 @@ Written using pyqt5 library GUI to plot prime signal in time and frequency domai
 
 
 <p1 align="center">
-  <img src="https://github.com/MikeZ7/Audio_Processing/blob/master/Images/qt_gui_sound.png" />
-  <figcaption>Uploaded sound sample</figcaption>
+  ![Sample](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/qt_gui_sound.png")
+  <em>Uploaded sound sample</em>
 </p1>
 
 <p2 align="center">
-  <img src="https://github.com/MikeZ7/Audio_Processing/blob/master/Images/spectrogram.png" />
-  <figcaption>Spectrogram</figcaption>
+![Spectrogram](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/spectrogram.png)
+  <em>Spectrogram</em>
 </p2>
 
 <p3 align="center">
-  <img src="https://github.com/MikeZ7/Audio_Processing/blob/master/Images/hough_template.png" />
-  <figcaption>Spectrogram after Hough Transform - edge detection</figcaption>
+  ![Hough](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/hough_template.png)
+  <em>Spectrogram after Hough Transform - edge detection</em>
 </p3>
 
