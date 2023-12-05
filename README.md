@@ -5,7 +5,7 @@ and functionalities I've learned through academic DSP course.
 
 ## **Waveform generator**
 
-Written using pyqt5 library GUI to plot prime signal in time and frequency domain. Generator implements also FFT and IFFT calculation. as well as saving/uploading signal to/from .wav file.
+Written using pyqt5 library GUI to plot prime signal in time and frequency domain. Generator implements also FFT and IFFT calculation as well as saving/uploading signal to/from .wav file.
 
 ![Old_GUI](https://github.com/MikeZ7/Audio_Processing/blob/master/Images/qt_gui_gen.png)
 
